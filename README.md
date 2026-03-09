@@ -54,11 +54,11 @@ The focus of the project was clear workflows, reliable data handling, and a clea
 
 
 ### Patient Dashboard
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/91769f13-c390-4806-a4d0-6aa29bb7e439" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/681a918f-3ac9-4292-b497-3c09f79c3efa" />
 
 
 ### Doctor Dashboard
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/f7d192aa-5206-4cbf-92ae-35a69ecf484f" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/d52f9fa3-9217-40c6-a8c0-4d1dd937de66" />
 
 
 ### Specialties Page
