@@ -42,55 +42,55 @@ The focus of the project was clear workflows, reliable data handling, and a clea
 ## Screenshots
 
 ### Landing Page
-![WhatsApp Image 2026-03-09 at 7 05 29 AM](https://github.com/user-attachments/assets/7c66a306-2fb5-474d-9dff-63fe76f447cb)
+![1 Landing Page](https://github.com/user-attachments/assets/3649cdc1-d276-4a2f-8b92-9dc07c4afac0)
 
 
 ### Login Page
-![WhatsApp Image 2026-03-09 at 7 05 29 AM (1)](https://github.com/user-attachments/assets/7bd8d475-e92a-493f-9fed-0cec69fb08aa)
+![2 Login Page](https://github.com/user-attachments/assets/b5046f9e-d5ee-43cb-ab8b-272a1aafe630)
 
 
 ### Admin Dashboard
-![WhatsApp Image 2026-03-09 at 7 05 29 AM (2)](https://github.com/user-attachments/assets/9342a32c-67ea-4d4e-97ee-cd12a35cdbf6)
+![3 Admin Dashboard](https://github.com/user-attachments/assets/c8211a5d-fe58-4c19-865b-71c14bf69f19)
 
 
 ### Patient Dashboard
-![WhatsApp Image 2026-03-09 at 7 05 29 AM (3)](https://github.com/user-attachments/assets/5e436e95-69df-481d-ad0c-ca14998e1df2)
+![4 Patient Dashboard](https://github.com/user-attachments/assets/2665dcb6-a49a-48bc-a204-e16ad8f4db49)
 
 
 ### Doctor Dashboard
-![WhatsApp Image 2026-03-09 at 7 05 29 AM (4)](https://github.com/user-attachments/assets/1157b368-c283-4bc0-898d-b8bd164a2994)
+![5 Doctor Dashboard](https://github.com/user-attachments/assets/02f63da7-aaa0-4a27-988d-5d422a86a9e9)
 
 
 ### Specialties Page
-![WhatsApp Image 2026-03-09 at 7 05 29 AM (6)](https://github.com/user-attachments/assets/407da799-bbb7-40d5-8661-e7e0e0c6f2f7)
+![6 Specialties Page](https://github.com/user-attachments/assets/a58cc6b5-6e2b-458f-bf36-ea798bb1d042)
 
 
 ### Users Application
-![WhatsApp Image 2026-03-09 at 7 05 29 AM (7)](https://github.com/user-attachments/assets/6caee963-dd2a-4b75-9b64-8ac5b0684e31)
+![7 Users Application](https://github.com/user-attachments/assets/5d52b88f-c9b0-41c7-9f85-2665505e85a7)
 
 
 ### Patients List
-![WhatsApp Image 2026-03-09 at 7 05 29 AM (8)](https://github.com/user-attachments/assets/5613ea33-d5b3-44f4-a17b-0186c7c31b11)
+![8 Patients List](https://github.com/user-attachments/assets/3489d9b6-119c-457f-a240-86cb2d90942f)
 
 
 ### Doctors List
-![WhatsApp Image 2026-03-09 at 7 05 29 AM (9)](https://github.com/user-attachments/assets/ac6b1433-d2fb-4c7b-8c53-125d8e48b2b8)
+![9 Doctors List](https://github.com/user-attachments/assets/118cb8d5-0ce3-4c3d-83b4-4c24cfc1e88c)
 
 
 ### Doctor Schedules
-![WhatsApp Image 2026-03-09 at 7 05 29 AM (9)](https://github.com/user-attachments/assets/ae2fea72-85b0-49f2-b29a-40c0be1bef25)
+![10 Doctor Schedules](https://github.com/user-attachments/assets/199c23b5-15b2-4915-8870-d3e79634a003)
 
 
 ### Appointment Booking
-![WhatsApp Image 2026-03-09 at 7 05 29 AM (10)](https://github.com/user-attachments/assets/f86df1ad-8b95-4887-bc43-27113df07ffe)
+![11 Appointment Booking](https://github.com/user-attachments/assets/f38bcb03-7176-4f01-8cd1-859a5e959209)
 
 
 ### Consultation Page
-![WhatsApp Image 2026-03-09 at 7 05 29 AM (11)](https://github.com/user-attachments/assets/de9866f9-8b65-4795-954e-a9103859f0af)
+![12 Consultation Page](https://github.com/user-attachments/assets/fc3841cf-652b-4591-abb2-c5a04fe94cac)
 
 
 ### Dashboard Calendar
-![WhatsApp Image 2026-03-09 at 7 05 29 AM (12)](https://github.com/user-attachments/assets/ebe3b55c-bcfc-461d-86cd-2a0171f59504)
+![13 Dashboard Calendar](https://github.com/user-attachments/assets/ba41c8fa-704f-48ac-8258-61cbcb3d6983)
 
 
 ---
